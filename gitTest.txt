@@ -1,3 +1,6 @@
 git add wenjianmng
 git commit -m "xxxxxx"
 git init
+git rest --hard "HEAD"
+git reflog
+git rest --hard "id info"
