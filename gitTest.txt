@@ -5,4 +5,6 @@ git rest --hard "HEAD"
 git reflog
 git rest --hard "id info"
 git status
-adfsf
+git diff 
+git checkout HEAD -- filename
+git reset HEAD filename
